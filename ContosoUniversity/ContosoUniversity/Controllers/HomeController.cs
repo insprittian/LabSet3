@@ -8,7 +8,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using ContosoUniversity.Data;
-using ContosoUniversity.Models.SchoolViewModels;
+using ContosoUniversity.ViewModels;
 
 namespace ContosoUniversity.Controllers
 {
