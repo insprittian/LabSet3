@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ContosoUniversity.Migrations
 {
     [DbContext(typeof(SchoolContext))]
-    [Migration("20210609020647_Inheritance")]
+    [Migration("20210609024452_Inheritance")]
     partial class Inheritance
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
